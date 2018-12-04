@@ -2,6 +2,7 @@
   <img src="https://github.com/Suvam-Dawn/Razorpay-For-Android/blob/master/README/razorpay.png"width="15%;" height="100px;"/><br/>
    <b>Razorpay-For-Android</h1><br/>Razorpay (Payment Gateway- https://razorpay.com/) Integration in Android</b>
 </p>
+<h6>Razorpay is a payments company that provides payment solutions to online merchants in India. Razorpay was founded in 2014 and is headquartered in Bangalore, India. Razorpay allows online businesses to accept, process and disburse digital payments through several payment modes like debit cards, credit cards, net banking, UPI and prepaid digital wallets. Razorpay payment solutions can be integrated by both web and mobile applications.</h6>
 <hr>
 
 <p><b> Steps:- </b></p>
