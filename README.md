@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Suvam-Dawn/Razorpay-For-Android/blob/master/README/razorpay.png"/><br/>
+  <img src="https://github.com/Suvam-Dawn/Razorpay-For-Android/blob/master/README/razorpay.png"width="15%;" height="100px;"/><br/>
    <b>Razorpay-For-Android</h1><br/>Razorpay (Payment Gateway- https://razorpay.com/) Integration in Android</b>
 </p>
 <hr>
